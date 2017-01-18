@@ -1,5 +1,5 @@
 # pyOF
-pyOF is python binding for openFrameworks.
+pyOF is a python binding for **openFrameworks** by using pybind11 and c++11.
 
 ##目前的状态:
 *没有基于测试驱动开发，相信会有许多潜在的错误。
